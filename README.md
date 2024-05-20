@@ -23,8 +23,8 @@ Result Visualization: Highlight fractures on original image.
 
 ## PROGRAM:
 ```
-Developed by: Priyanka.A
-Register No: 212222230113
+Developed by: DINESH KUMAR R
+Register No: 212222110010
 ```
 
 ```python
